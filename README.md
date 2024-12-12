@@ -1,6 +1,7 @@
-# ChessApp
-[![Actions Status](https://github.com/bkwon21/ChessApp/workflows/Build/badge.svg)](https://github.com/bkwon21/ChessApp/actions)
+# Chess Android Application
 
-Created by [@bkwon21](https://github.com/bkwon21) [@ChrisYeet](https://github.com/chrisyeet) [@MarshallZzzz](https://github.com/MarshallZzzz) & [@camero1993](https://github.com/camero1993)
+Implementation of the game of chess using the Android SDK and preexisting game framework for
+Samsung tablets. Made in collaboration with the University of Portland's CS301 (Object Oriented
+Design).
 
-Credits [Freepik](https://img.freepik.com/premium-photo/video-game-background-landscape-with-mountains-forests-16-bit-pixels-retro-video-arcade-game-nature-location-with-pixel-art-mountain-hills-snow-peaks-sky-clouds-trees-grass-lake_685067-3752.jpg?w=1800)
+Media: [Freepik](https://img.freepik.com/premium-photo/video-game-background-landscape-with-mountains-forests-16-bit-pixels-retro-video-arcade-game-nature-location-with-pixel-art-mountain-hills-snow-peaks-sky-clouds-trees-grass-lake_685067-3752.jpg)
